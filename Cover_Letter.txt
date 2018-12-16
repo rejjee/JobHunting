@@ -1,0 +1,8 @@
+September 22, 2017
+
+Dear Hiring Manager: 
+
+I believe I have a good mix of skills for the position of .Net Developer. For the past several years, I’ve had progressive work experience with .Net web development using .Net MVC, C#, Web API, SQL, Javascript, etc. In my last job, I helped develop an enterprise web application using Web API and Knockout.js. I look forward to hearing from you.
+
+Thanks,
+Reginald Capagcuan
