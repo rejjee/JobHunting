@@ -15,15 +15,15 @@ In the last several years, I’ve developed web and desktop applications mainly 
 EXPERIENCE
 Sharphat, Inc.	Englewood Cliffs, NJ
 Senior Application Developer	Oct 2017 – Sep 2019
-Responsibilities included development and maintenance of web applications mostly using Web API, Knockout.js and SQL. Work examples include:
+Responsibilities included development and maintenance of web applications mostly using .Net Framework 4.5, Knockout.js and SQL. Accomplishments include the following deliverables/features:
 ●Converting a Web Forms/VB application to Web API/C#/Knockout.js
-●Components of a web application that tracked NFL player injuries using data grids, filters, Crystal Reports, etc.
-●Components of a web application that displayed real-time NFL game statistics using SignalR
-●Looking up location information from the cloud using Google Places API
-●AWS Amazon EC2-enabled application components including uploading and downloading files, creating images and instances, remotely starting new servers
-●Tracking employee hours and company revenues by connecting to the Atlassian JIRA ticketing system and displaying data using Highcharts JavaScript library
+●Application components that monitored NFL players’ health using data grids, filters, Crystal Reports, etc.
+●components that displayed real-time NFL game statistics using SignalR, XML, etc.
+●Address-search features using Google Places API
+●Uploading and downloading files, creating server images and instances, and remotely starting new servers in AWS Amazon EC2
+●Tracker application for employee hours and company revenues that connected to the Atlassian JIRA ticketing system and displayed data using Highcharts JavaScript library
 ●Incorporating responsive design to support mobile browsers
-●Also used jQuery, Bootstrap, SASS, various JavaScript libraries, Dapper, NLog, PrePros, Postman
+Also used jQuery, Bootstrap, SASS, various JavaScript libraries, Dapper, NLog, PrePros, Postman
 
 
 
@@ -34,7 +34,7 @@ Responsibilities included enhancing and debugging an enterprise web application 
 ●Generating an Excel spreadsheet populated with real-time data based on the user’s data entitlements using the Infragistics JavaScript library.
 ●Migrating application from Web Forms to Web API and Knockout.js
 ●Other enhancements and bug fixes
-●Used Web API 2, SQL Server 2012, Knockout.js, Sammy.js, AmplifyJS, Coffeescript, Bootstrap, Visual Studio 2012, SourceGear Vault, Jenkins Continuous Integration
+Used Web API 2, SQL Server 2012, Knockout.js, Sammy.js, AmplifyJS, Coffeescript, Bootstrap, Visual Studio 2012, SourceGear Vault, Jenkins Continuous Integration
 
 LanguageWorks, a division of Ubiqus	New York, NY
 Application Developer	Feb 2006 – May 2016
