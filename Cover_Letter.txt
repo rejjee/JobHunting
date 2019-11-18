@@ -1,0 +1,8 @@
+November 19, 2019
+
+Dear Hiring Manager: 
+
+I believe I have a good mix of skills for the position of Senior Developer SaaS Applications. I have working experience with .Net web development using Web API, C#, MVC, T-SQL, Javascript, Knockout.js, etc. In my last job, I helped develop and support web applications for a global sports entertainment company using Web API and Knockout.js. I look forward to hearing from you.
+
+Thanks,
+Reginald Capagcuan
