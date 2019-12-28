@@ -1,0 +1,7 @@
+Dear Hiring Manager: 
+
+I believe I have a good mix of skills for the position of ASP.NET Developer. In the past several years, I've worked on web development using the Microsoft tech stack and more recently, using Knockout.js on the front-end. In my last job, I worked as part of a team developing front- and back-end components of web applications for a global sports entertainment company. I look forward to hearing from you.
+
+
+Thanks,
+Reginald Capagcuan
